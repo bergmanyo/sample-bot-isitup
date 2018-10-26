@@ -3,7 +3,6 @@
 const ViberBot = require('viber-bot').Bot;
 const BotEvents = require('viber-bot').Events;
 const TextMessage = require('viber-bot').Message.Text;
-require('dotenv').config();
 
 const winston = require('winston');
 const toYAML = require('winston-console-formatter');
