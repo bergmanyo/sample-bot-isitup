@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sample Viber bot
 
 A simple starting point for creating a Node.js based Viber bot. This bot allows you to test if a website is down for everyone or just you.
@@ -52,3 +53,6 @@ now
 See the [LICENSE](LICENSE.md) file (MIT).
 
 [1]: output.gif
+=======
+# sample-bot-isitup
+>>>>>>> parent of ec12b20... initial commit
