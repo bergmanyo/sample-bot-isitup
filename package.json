@@ -17,7 +17,7 @@
   "dependencies": {
     "express": "4.13.4",
     "request": "^2.79.0",
-    "viber-bot": "^1.0.7",
+    "viber-bot": "^1.0.6",
     "winston": "^2.3.0",
     "winston-console-formatter": "^0.3.1"
   },
